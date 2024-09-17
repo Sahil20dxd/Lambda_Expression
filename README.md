@@ -1,0 +1,1 @@
+This project demonstrates the use of Lambda expressions in Java 8 for concise and functional programming. It covers topics like functional interfaces (Function, Consumer, Predicate, Supplier), method references, and stream API. The project includes practical examples to illustrate the power and efficiency of Lambda expressions in simplifying code
